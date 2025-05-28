@@ -6,7 +6,7 @@ import 'package:camera/camera.dart';
 import '../main.dart';
 import 'home_screen.dart';
 import 'otp_verification_screen.dart';
-import 'package:kavach/services/auth_service.dart';
+import 'package:kavach_hackvortex/services/auth_service.dart';
 
 class PhoneScreen extends StatefulWidget {
   const PhoneScreen({super.key});

@@ -9,7 +9,7 @@ import 'phone_screen.dart';
 import 'email_screen.dart';
 import 'login_screen.dart';
 import '../main.dart';
-import 'package:kavach/services/auth_service.dart';
+import 'package:kavach_hackvortex/services/auth_service.dart';
 import 'home_screen.dart';
 import 'package:camera/camera.dart';
 

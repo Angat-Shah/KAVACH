@@ -5,7 +5,7 @@ import 'package:fluttertoast/fluttertoast.dart';
 import 'home_screen.dart';
 import '../main.dart';
 import 'package:camera/camera.dart';
-import 'package:kavach/admin/admin_panel.dart';
+import 'package:kavach_hackvortex/admin/admin_panel.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});

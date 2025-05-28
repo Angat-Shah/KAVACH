@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:kavach/screens/chatbot_screen.dart';
-import 'package:kavach/services/chat_service.dart';
+import 'package:kavach_hackvortex/screens/chatbot_screen.dart';
+import 'package:kavach_hackvortex/services/chat_service.dart';
 
 class ChatIntroScreen extends StatelessWidget {
   final ChatService chatService;

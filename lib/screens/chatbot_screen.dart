@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:kavach/services/chat_service.dart';
+import 'package:kavach_hackvortex/services/chat_service.dart';
 
 class ChatScreen extends StatefulWidget {
   final ChatService chatService;
