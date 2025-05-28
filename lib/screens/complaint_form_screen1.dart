@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
 import 'package:debounce_throttle/debounce_throttle.dart';
-import 'package:kavach/services/verhoeff.dart';
+import 'package:kavach_hackvortex/services/verhoeff.dart';
 import 'complaint_form_screen2.dart';
 
 class PersonalInformationScreen extends StatefulWidget {

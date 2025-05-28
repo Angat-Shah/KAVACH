@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:kavach/admin/reportcheck_screen.dart';
-import 'package:kavach/admin/newcheck_screen.dart';
-import 'package:kavach/admin/map_admin.dart';
-import 'package:kavach/admin/admin_profile.dart';
+import 'package:kavach_hackvortex/admin/reportcheck_screen.dart';
+import 'package:kavach_hackvortex/admin/newcheck_screen.dart';
+import 'package:kavach_hackvortex/admin/map_admin.dart';
+import 'package:kavach_hackvortex/admin/admin_profile.dart';
 
 class AdminPanel extends StatefulWidget {
   const AdminPanel({super.key});
