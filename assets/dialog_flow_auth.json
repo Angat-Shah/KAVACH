@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "safetybuddy-byqg",
+  "private_key_id": "1aadececd376757a0701269db0e253f02a39af1f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCcojrZvXmGQ+03\nZ5P+xSXglidA0rsOnL+GfD+wByMvGz6j2OV/TNtlXFgWmWLlrIpUZMvjak88LjYr\nEypvFz6G8Jmul65R0ZTPdqzP2Tht7Wzmaz5owU9G0+bltaHkO6aH+5SM0/MwS29t\nEz3oqWrmIqEgcCH5hzoXQwSOm8+uhOkioIfIL/v7MZDeH0aptjmEBWx09p+BRkP8\n5/hoCYi362pXgzk26800bsnNUudnqhRlQWi6KmGea+5T/jSFDZyN4BEbhk+W29u2\nxXPTmqQ8nMhi9ZhK5cP4TbzDf1/yAen09tq6SMnDAlnukn3H41OGVFXuqrlDu0ji\nJdsgYBC7AgMBAAECggEAPUdMvdXeXtRhUF0x7ajkji5AUiB/dRKG7Y7bfbr1HV9L\nzN80ve5sIQYVIlZE9jTf829xwtlbAWDU6Vo4rjiKSlGD1mXaGYFkdhvoNPK3HG6Y\nPbc0Ndh28u9A9JpwKTHbD3Ux4zyidkD06VfvTwBE5Z8jqWSlLhGk/OfHtyEnCY+y\nDQDk/NvG08HbrIs0VNOcoi+eyrfgSy5XtbfT+yhfbNAnPEODLHfNBoLU60c0bT6K\nJW/gFE4vLU6/q1Pfns6Wnq7E1j6YhNrfUP/oOsjkHrXL6lyUvdcZjckX3b/qW7nF\nbaPAeDz1KSptjSMOunWPbTy4cdP9Gr/8QMzN4kOyWQKBgQDUme1W3JITVeIhiNKg\n2I8XHg/Mk848MmD+AEnBLzSSkklYhd0GKPreM+pLooaz/zaiKBBhAzvA16OufgPy\n3jd7jtDb7vDcMsHDVxxKVr6G/x6vPN2mf06xO8GXY0qhxwI0cBrJGH+hX6BmuqyB\nwfVfbKfOzEOE76uUvl7mvnjZKQKBgQC8m4+4jbbNsm2ed2m5XxwBxpAYrgPW1Zit\ne0MiXouPFtM8/j939A5sVJ09h+NF7hCsu+fiAYY/z6oNGnYixcWJBKMMpYSS+5bb\nImsFSWNWJsDk18oVZ/cmqCwjOw43WX2nN4mCmk7bg/3NZ8hAbrR35iHKRTM682UE\nWmb9qE3DQwKBgBNQkLFthI/hI5QsXAZk5ksRXhoV64yofwtUd17nrP0L8UHrl3Lx\n0ijRyp1ofJhpvUrqHOLTamBQtvwpUq6D5cKB7ROuF4/JxLS8e0N9sf2Nu/nrq69u\nrXWImkPor2UXMWoWLTjL0vyUNXxfxUBcoLA0rOIqyI+RPqNa0EBiWZRRAoGAFRGn\nn20tQ5MwDai3Rb7rKQOeazNdOG2J7a88U6WOH4DkPgcE3giEZ/OX0RzR9ajfcfxX\nrfaPoac4Dtiq472GEIVVFX+T7LtwIbCZlfCZyTDxEV9NstB3Wnkk3RamwuYbVEeu\n88j7ECiRfJWgWBpFzLMHiUnrrCUuXqseoC1h6nMCgYEAl0wh82QnaVIGdxtAWfyb\npnFp7fD5xzjM9pWhiRnG3MXE17zVewdzrHq3AmY8315lChRw/XBNf6xXzsJVXvpA\nRlhVY7ZUsXNdIqc0hNDGZWH1CbZJDiJvcRnth6FgrzGxm8n2/2zHYwIKj06kE/Zi\nBVVmfIt4zmnlVnnZeHCVIuM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-service@safetybuddy-byqg.iam.gserviceaccount.com",
+  "client_id": "111955386971758534689",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-service%40safetybuddy-byqg.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

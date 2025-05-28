@@ -1,0 +1,5462 @@
+[
+  {
+    "emoji": "\ud83d\udc3e",
+    "type": "Animal",
+    "location": "Toronto, ON",
+    "lat": 43.656114,
+    "lng": -79.355494,
+    "time": "08:37 AM",
+    "timeline": [
+      {
+        "time": "08:37 AM",
+        "description": "Animal incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc4a",
+    "type": "Assault",
+    "location": "Toronto, ON",
+    "lat": 43.658851,
+    "lng": -79.343711,
+    "time": "08:47 AM",
+    "timeline": [
+      {
+        "time": "08:47 AM",
+        "description": "Assault incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Los Angeles, CA",
+    "lat": 34.041642,
+    "lng": -118.228642,
+    "time": "08:51 AM",
+    "timeline": [
+      {
+        "time": "08:51 AM",
+        "description": "Break In incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Seattle, WA",
+    "lat": 47.625742,
+    "lng": -122.321353,
+    "time": "08:48 AM",
+    "timeline": [
+      {
+        "time": "08:48 AM",
+        "description": "Earthquake incident reported in Seattle, WA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Miami, FL",
+    "lat": 25.745109,
+    "lng": -80.202273,
+    "time": "08:36 AM",
+    "timeline": [
+      {
+        "time": "08:36 AM",
+        "description": "Gun incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude21",
+    "type": "Harassment",
+    "location": "Los Angeles, CA",
+    "lat": 34.061833,
+    "lng": -118.252787,
+    "time": "08:57 AM",
+    "timeline": [
+      {
+        "time": "08:57 AM",
+        "description": "Harassment incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "Seattle, WA",
+    "lat": 47.597424,
+    "lng": -122.330969,
+    "time": "08:24 AM",
+    "timeline": [
+      {
+        "time": "08:24 AM",
+        "description": "Hazard incident reported in Seattle, WA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Toronto, ON",
+    "lat": 43.649793,
+    "lng": -79.358869,
+    "time": "08:04 AM",
+    "timeline": [
+      {
+        "time": "08:04 AM",
+        "description": "Helicopter incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Houston, TX",
+    "lat": 29.756429,
+    "lng": -95.357109,
+    "time": "08:38 AM",
+    "timeline": [
+      {
+        "time": "08:38 AM",
+        "description": "Missing Person incident reported in Houston, TX."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "New York, NY",
+    "lat": 40.725426,
+    "lng": -73.993278,
+    "time": "08:32 AM",
+    "timeline": [
+      {
+        "time": "08:32 AM",
+        "description": "Protest incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Los Angeles, CA",
+    "lat": 34.034073,
+    "lng": -118.244457,
+    "time": "08:32 AM",
+    "timeline": [
+      {
+        "time": "08:32 AM",
+        "description": "Pursuit incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "San Francisco, CA",
+    "lat": 37.779637,
+    "lng": -122.401592,
+    "time": "08:17 AM",
+    "timeline": [
+      {
+        "time": "08:17 AM",
+        "description": "Rescue incident reported in San Francisco, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Chicago, IL",
+    "lat": 41.86329,
+    "lng": -87.632809,
+    "time": "08:29 AM",
+    "timeline": [
+      {
+        "time": "08:29 AM",
+        "description": "Robbery/Theft incident reported in Chicago, IL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "New York, NY",
+    "lat": 40.699993,
+    "lng": -74.022717,
+    "time": "08:30 AM",
+    "timeline": [
+      {
+        "time": "08:30 AM",
+        "description": "Transit incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2a",
+    "type": "Weapon",
+    "location": "Los Angeles, CA",
+    "lat": 34.039732,
+    "lng": -118.229615,
+    "time": "08:44 AM",
+    "timeline": [
+      {
+        "time": "08:44 AM",
+        "description": "Weapon incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Los Angeles, CA",
+    "lat": 34.055487,
+    "lng": -118.261564,
+    "time": "08:49 AM",
+    "timeline": [
+      {
+        "time": "08:49 AM",
+        "description": "Weather incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "Toronto, ON",
+    "lat": 43.656142,
+    "lng": -79.338135,
+    "time": "08:12 AM",
+    "timeline": [
+      {
+        "time": "08:12 AM",
+        "description": "Wildfire incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc3e",
+    "type": "Animal",
+    "location": "San Francisco, CA",
+    "lat": 37.762725,
+    "lng": -122.404719,
+    "time": "10:12 AM",
+    "timeline": [
+      {
+        "time": "10:12 AM",
+        "description": "Animal incident reported in San Francisco, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "San Francisco, CA",
+    "lat": 37.759385,
+    "lng": -122.403978,
+    "time": "10:28 AM",
+    "timeline": [
+      {
+        "time": "10:28 AM",
+        "description": "Helicopter incident reported in San Francisco, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Toronto, ON",
+    "lat": 43.642107,
+    "lng": -79.344728,
+    "time": "10:07 AM",
+    "timeline": [
+      {
+        "time": "10:07 AM",
+        "description": "Rescue incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Miami, FL",
+    "lat": 25.760652,
+    "lng": -80.19293,
+    "time": "08:01 AM",
+    "timeline": [
+      {
+        "time": "08:01 AM",
+        "description": "Pursuit incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Miami, FL",
+    "lat": 25.759678,
+    "lng": -80.179949,
+    "time": "08:22 AM",
+    "timeline": [
+      {
+        "time": "08:22 AM",
+        "description": "Earthquake incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Houston, TX",
+    "lat": 29.759383,
+    "lng": -95.38931,
+    "time": "09:10 AM",
+    "timeline": [
+      {
+        "time": "09:10 AM",
+        "description": "Transit incident reported in Houston, TX."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc4a",
+    "type": "Assault",
+    "location": "New York, NY",
+    "lat": 40.715695,
+    "lng": -74.018297,
+    "time": "10:47 AM",
+    "timeline": [
+      {
+        "time": "10:47 AM",
+        "description": "Assault incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Denver, CO",
+    "lat": 39.749091,
+    "lng": -104.979404,
+    "time": "09:10 AM",
+    "timeline": [
+      {
+        "time": "09:10 AM",
+        "description": "Missing Person incident reported in Denver, CO."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Seattle, WA",
+    "lat": 47.59648,
+    "lng": -122.32404,
+    "time": "08:19 AM",
+    "timeline": [
+      {
+        "time": "08:19 AM",
+        "description": "Gun incident reported in Seattle, WA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "San Francisco, CA",
+    "lat": 37.763223,
+    "lng": -122.417006,
+    "time": "09:52 AM",
+    "timeline": [
+      {
+        "time": "09:52 AM",
+        "description": "Gun incident reported in San Francisco, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude21",
+    "type": "Harassment",
+    "location": "Houston, TX",
+    "lat": 29.77897,
+    "lng": -95.374362,
+    "time": "09:27 AM",
+    "timeline": [
+      {
+        "time": "09:27 AM",
+        "description": "Harassment incident reported in Houston, TX."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude21",
+    "type": "Harassment",
+    "location": "New York, NY",
+    "lat": 40.700078,
+    "lng": -74.02328,
+    "time": "10:21 AM",
+    "timeline": [
+      {
+        "time": "10:21 AM",
+        "description": "Harassment incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Houston, TX",
+    "lat": 29.772262,
+    "lng": -95.352479,
+    "time": "08:39 AM",
+    "timeline": [
+      {
+        "time": "08:39 AM",
+        "description": "Transit incident reported in Houston, TX."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Los Angeles, CA",
+    "lat": 34.040621,
+    "lng": -118.255598,
+    "time": "09:06 AM",
+    "timeline": [
+      {
+        "time": "09:06 AM",
+        "description": "Weather incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "San Francisco, CA",
+    "lat": 37.767034,
+    "lng": -122.437615,
+    "time": "08:41 AM",
+    "timeline": [
+      {
+        "time": "08:41 AM",
+        "description": "Weather incident reported in San Francisco, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "Phoenix, AZ",
+    "lat": 33.447519,
+    "lng": -112.08587,
+    "time": "08:53 AM",
+    "timeline": [
+      {
+        "time": "08:53 AM",
+        "description": "Wildfire incident reported in Phoenix, AZ."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Houston, TX",
+    "lat": 29.769259,
+    "lng": -95.36963,
+    "time": "10:14 AM",
+    "timeline": [
+      {
+        "time": "10:14 AM",
+        "description": "Gun incident reported in Houston, TX."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "San Francisco, CA",
+    "lat": 37.782233,
+    "lng": -122.4002,
+    "time": "09:32 AM",
+    "timeline": [
+      {
+        "time": "09:32 AM",
+        "description": "Transit incident reported in San Francisco, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Toronto, ON",
+    "lat": 43.638547,
+    "lng": -79.366341,
+    "time": "08:00 AM",
+    "timeline": [
+      {
+        "time": "08:00 AM",
+        "description": "Protest incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude21",
+    "type": "Harassment",
+    "location": "Miami, FL",
+    "lat": 25.762746,
+    "lng": -80.188488,
+    "time": "10:58 AM",
+    "timeline": [
+      {
+        "time": "10:58 AM",
+        "description": "Harassment incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc3e",
+    "type": "Animal",
+    "location": "Houston, TX",
+    "lat": 29.771723,
+    "lng": -95.384396,
+    "time": "09:28 AM",
+    "timeline": [
+      {
+        "time": "09:28 AM",
+        "description": "Animal incident reported in Houston, TX."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Los Angeles, CA",
+    "lat": 34.043985,
+    "lng": -118.229298,
+    "time": "10:12 AM",
+    "timeline": [
+      {
+        "time": "10:12 AM",
+        "description": "Transit incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Los Angeles, CA",
+    "lat": 34.043437,
+    "lng": -118.263054,
+    "time": "09:54 AM",
+    "timeline": [
+      {
+        "time": "09:54 AM",
+        "description": "Earthquake incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Seattle, WA",
+    "lat": 47.601835,
+    "lng": -122.313153,
+    "time": "10:09 AM",
+    "timeline": [
+      {
+        "time": "10:09 AM",
+        "description": "Protest incident reported in Seattle, WA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2a",
+    "type": "Weapon",
+    "location": "New York, NY",
+    "lat": 40.698823,
+    "lng": -74.010043,
+    "time": "08:48 AM",
+    "timeline": [
+      {
+        "time": "08:48 AM",
+        "description": "Weapon incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Toronto, ON",
+    "lat": 43.635143,
+    "lng": -79.346526,
+    "time": "08:14 AM",
+    "timeline": [
+      {
+        "time": "08:14 AM",
+        "description": "Weather incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc3e",
+    "type": "Animal",
+    "location": "Los Angeles, CA",
+    "lat": 34.045615,
+    "lng": -118.247845,
+    "time": "09:58 AM",
+    "timeline": [
+      {
+        "time": "09:58 AM",
+        "description": "Animal incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "New York, NY",
+    "lat": 40.693097,
+    "lng": -74.018228,
+    "time": "10:04 AM",
+    "timeline": [
+      {
+        "time": "10:04 AM",
+        "description": "Helicopter incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "Miami, FL",
+    "lat": 25.756554,
+    "lng": -80.184977,
+    "time": "08:03 AM",
+    "timeline": [
+      {
+        "time": "08:03 AM",
+        "description": "Hazard incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "Toronto, ON",
+    "lat": 43.642868,
+    "lng": -79.358776,
+    "time": "09:17 AM",
+    "timeline": [
+      {
+        "time": "09:17 AM",
+        "description": "Hazard incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "New York, NY",
+    "lat": 40.717978,
+    "lng": -74.024702,
+    "time": "10:48 AM",
+    "timeline": [
+      {
+        "time": "10:48 AM",
+        "description": "Weather incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Phoenix, AZ",
+    "lat": 33.4548,
+    "lng": -112.087435,
+    "time": "08:51 AM",
+    "timeline": [
+      {
+        "time": "08:51 AM",
+        "description": "Protest incident reported in Phoenix, AZ."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Los Angeles, CA",
+    "lat": 34.045124,
+    "lng": -118.237155,
+    "time": "09:29 AM",
+    "timeline": [
+      {
+        "time": "09:29 AM",
+        "description": "Transit incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Houston, TX",
+    "lat": 29.759942,
+    "lng": -95.368209,
+    "time": "10:52 AM",
+    "timeline": [
+      {
+        "time": "10:52 AM",
+        "description": "Transit incident reported in Houston, TX."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc4a",
+    "type": "Assault",
+    "location": "Seattle, WA",
+    "lat": 47.603143,
+    "lng": -122.335386,
+    "time": "08:53 AM",
+    "timeline": [
+      {
+        "time": "08:53 AM",
+        "description": "Assault incident reported in Seattle, WA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Seattle, WA",
+    "lat": 47.597854,
+    "lng": -122.335177,
+    "time": "08:40 AM",
+    "timeline": [
+      {
+        "time": "08:40 AM",
+        "description": "Missing Person incident reported in Seattle, WA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Miami, FL",
+    "lat": 25.754577,
+    "lng": -80.20408,
+    "time": "10:43 AM",
+    "timeline": [
+      {
+        "time": "10:43 AM",
+        "description": "Gun incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "New York, NY",
+    "lat": 40.693024,
+    "lng": -73.994896,
+    "time": "09:59 AM",
+    "timeline": [
+      {
+        "time": "09:59 AM",
+        "description": "Gun incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Los Angeles, CA",
+    "lat": 34.054384,
+    "lng": -118.258379,
+    "time": "09:40 AM",
+    "timeline": [
+      {
+        "time": "09:40 AM",
+        "description": "Transit incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Chicago, IL",
+    "lat": 41.887937,
+    "lng": -87.644983,
+    "time": "09:14 AM",
+    "timeline": [
+      {
+        "time": "09:14 AM",
+        "description": "Helicopter incident reported in Chicago, IL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Chicago, IL",
+    "lat": 41.879556,
+    "lng": -87.627286,
+    "time": "08:38 AM",
+    "timeline": [
+      {
+        "time": "08:38 AM",
+        "description": "Break In incident reported in Chicago, IL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Houston, TX",
+    "lat": 29.74297,
+    "lng": -95.368192,
+    "time": "09:42 AM",
+    "timeline": [
+      {
+        "time": "09:42 AM",
+        "description": "Pursuit incident reported in Houston, TX."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "New York, NY",
+    "lat": 40.700938,
+    "lng": -74.021948,
+    "time": "08:41 AM",
+    "timeline": [
+      {
+        "time": "08:41 AM",
+        "description": "Hazard incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Miami, FL",
+    "lat": 25.758055,
+    "lng": -80.176855,
+    "time": "08:21 AM",
+    "timeline": [
+      {
+        "time": "08:21 AM",
+        "description": "Earthquake incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Toronto, ON",
+    "lat": 43.645521,
+    "lng": -79.362254,
+    "time": "10:14 AM",
+    "timeline": [
+      {
+        "time": "10:14 AM",
+        "description": "Pursuit incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude21",
+    "type": "Harassment",
+    "location": "San Francisco, CA",
+    "lat": 37.765302,
+    "lng": -122.413259,
+    "time": "10:49 AM",
+    "timeline": [
+      {
+        "time": "10:49 AM",
+        "description": "Harassment incident reported in San Francisco, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "New York, NY",
+    "lat": 40.697003,
+    "lng": -74.016319,
+    "time": "08:38 AM",
+    "timeline": [
+      {
+        "time": "08:38 AM",
+        "description": "Hazard incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Seattle, WA",
+    "lat": 47.587056,
+    "lng": -122.320049,
+    "time": "10:49 AM",
+    "timeline": [
+      {
+        "time": "10:49 AM",
+        "description": "Break In incident reported in Seattle, WA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Los Angeles, CA",
+    "lat": 34.071354,
+    "lng": -118.245774,
+    "time": "08:35 AM",
+    "timeline": [
+      {
+        "time": "08:35 AM",
+        "description": "Break In incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Chicago, IL",
+    "lat": 41.861339,
+    "lng": -87.638741,
+    "time": "08:59 AM",
+    "timeline": [
+      {
+        "time": "08:59 AM",
+        "description": "Transit incident reported in Chicago, IL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "New York, NY",
+    "lat": 40.722288,
+    "lng": -73.997981,
+    "time": "09:54 AM",
+    "timeline": [
+      {
+        "time": "09:54 AM",
+        "description": "Robbery/Theft incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "Houston, TX",
+    "lat": 29.744179,
+    "lng": -95.385,
+    "time": "08:00 AM",
+    "timeline": [
+      {
+        "time": "08:00 AM",
+        "description": "Wildfire incident reported in Houston, TX."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "San Francisco, CA",
+    "lat": 37.781653,
+    "lng": -122.430006,
+    "time": "10:31 AM",
+    "timeline": [
+      {
+        "time": "10:31 AM",
+        "description": "Weather incident reported in San Francisco, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Phoenix, AZ",
+    "lat": 33.432464,
+    "lng": -112.077266,
+    "time": "10:20 AM",
+    "timeline": [
+      {
+        "time": "10:20 AM",
+        "description": "Protest incident reported in Phoenix, AZ."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Miami, FL",
+    "lat": 25.761041,
+    "lng": -80.196363,
+    "time": "08:36 AM",
+    "timeline": [
+      {
+        "time": "08:36 AM",
+        "description": "Helicopter incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Houston, TX",
+    "lat": 29.743623,
+    "lng": -95.366309,
+    "time": "08:01 AM",
+    "timeline": [
+      {
+        "time": "08:01 AM",
+        "description": "Transit incident reported in Houston, TX."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Phoenix, AZ",
+    "lat": 33.453946,
+    "lng": -112.061319,
+    "time": "08:46 AM",
+    "timeline": [
+      {
+        "time": "08:46 AM",
+        "description": "Weather incident reported in Phoenix, AZ."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Los Angeles, CA",
+    "lat": 34.057358,
+    "lng": -118.257736,
+    "time": "08:39 AM",
+    "timeline": [
+      {
+        "time": "08:39 AM",
+        "description": "Rescue incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Seattle, WA",
+    "lat": 47.594542,
+    "lng": -122.339749,
+    "time": "10:40 AM",
+    "timeline": [
+      {
+        "time": "10:40 AM",
+        "description": "Helicopter incident reported in Seattle, WA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Chicago, IL",
+    "lat": 41.892854,
+    "lng": -87.612578,
+    "time": "09:04 AM",
+    "timeline": [
+      {
+        "time": "09:04 AM",
+        "description": "Helicopter incident reported in Chicago, IL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Toronto, ON",
+    "lat": 43.650461,
+    "lng": -79.334433,
+    "time": "10:33 AM",
+    "timeline": [
+      {
+        "time": "10:33 AM",
+        "description": "Missing Person incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Seattle, WA",
+    "lat": 47.619126,
+    "lng": -122.332631,
+    "time": "10:51 AM",
+    "timeline": [
+      {
+        "time": "10:51 AM",
+        "description": "Gun incident reported in Seattle, WA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Phoenix, AZ",
+    "lat": 33.429319,
+    "lng": -112.081593,
+    "time": "09:53 AM",
+    "timeline": [
+      {
+        "time": "09:53 AM",
+        "description": "Transit incident reported in Phoenix, AZ."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude21",
+    "type": "Harassment",
+    "location": "Miami, FL",
+    "lat": 25.777529,
+    "lng": -80.185508,
+    "time": "08:31 AM",
+    "timeline": [
+      {
+        "time": "08:31 AM",
+        "description": "Harassment incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Toronto, ON",
+    "lat": 43.667363,
+    "lng": -79.349831,
+    "time": "08:37 AM",
+    "timeline": [
+      {
+        "time": "08:37 AM",
+        "description": "Missing Person incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc3e",
+    "type": "Animal",
+    "location": "Toronto, ON",
+    "lat": 43.631789,
+    "lng": -79.328052,
+    "time": "10:13 AM",
+    "timeline": [
+      {
+        "time": "10:13 AM",
+        "description": "Animal incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Denver, CO",
+    "lat": 39.719903,
+    "lng": -104.997529,
+    "time": "09:34 AM",
+    "timeline": [
+      {
+        "time": "09:34 AM",
+        "description": "Transit incident reported in Denver, CO."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "New York, NY",
+    "lat": 40.700545,
+    "lng": -74.011139,
+    "time": "09:40 AM",
+    "timeline": [
+      {
+        "time": "09:40 AM",
+        "description": "Gun incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "Chicago, IL",
+    "lat": 41.877694,
+    "lng": -87.637313,
+    "time": "09:37 AM",
+    "timeline": [
+      {
+        "time": "09:37 AM",
+        "description": "Wildfire incident reported in Chicago, IL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc4a",
+    "type": "Assault",
+    "location": "Seattle, WA",
+    "lat": 47.587857,
+    "lng": -122.332609,
+    "time": "10:58 AM",
+    "timeline": [
+      {
+        "time": "10:58 AM",
+        "description": "Assault incident reported in Seattle, WA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "New York, NY",
+    "lat": 40.729415,
+    "lng": -73.993578,
+    "time": "08:54 AM",
+    "timeline": [
+      {
+        "time": "08:54 AM",
+        "description": "Break In incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Toronto, ON",
+    "lat": 43.655732,
+    "lng": -79.339952,
+    "time": "08:46 AM",
+    "timeline": [
+      {
+        "time": "08:46 AM",
+        "description": "Break In incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2a",
+    "type": "Weapon",
+    "location": "Denver, CO",
+    "lat": 39.747836,
+    "lng": -104.976192,
+    "time": "08:45 AM",
+    "timeline": [
+      {
+        "time": "08:45 AM",
+        "description": "Weapon incident reported in Denver, CO."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Chicago, IL",
+    "lat": 41.893381,
+    "lng": -87.642203,
+    "time": "08:36 AM",
+    "timeline": [
+      {
+        "time": "08:36 AM",
+        "description": "Earthquake incident reported in Chicago, IL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Houston, TX",
+    "lat": 29.77329,
+    "lng": -95.370571,
+    "time": "09:53 AM",
+    "timeline": [
+      {
+        "time": "09:53 AM",
+        "description": "Transit incident reported in Houston, TX."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Los Angeles, CA",
+    "lat": 34.069133,
+    "lng": -118.229114,
+    "time": "08:18 AM",
+    "timeline": [
+      {
+        "time": "08:18 AM",
+        "description": "Robbery/Theft incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Denver, CO",
+    "lat": 39.725823,
+    "lng": -104.983104,
+    "time": "08:41 AM",
+    "timeline": [
+      {
+        "time": "08:41 AM",
+        "description": "Rescue incident reported in Denver, CO."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "New York, NY",
+    "lat": 40.711759,
+    "lng": -74.00198,
+    "time": "10:49 AM",
+    "timeline": [
+      {
+        "time": "10:49 AM",
+        "description": "Weather incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "Los Angeles, CA",
+    "lat": 34.060175,
+    "lng": -118.233237,
+    "time": "10:36 AM",
+    "timeline": [
+      {
+        "time": "10:36 AM",
+        "description": "Hazard incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Chicago, IL",
+    "lat": 41.882762,
+    "lng": -87.648956,
+    "time": "10:35 AM",
+    "timeline": [
+      {
+        "time": "10:35 AM",
+        "description": "Gun incident reported in Chicago, IL."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "San Francisco, CA",
+    "lat": 37.756496,
+    "lng": -122.401869,
+    "time": "08:58 AM",
+    "timeline": [
+      {
+        "time": "08:58 AM",
+        "description": "Weather incident reported in San Francisco, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "Miami, FL",
+    "lat": 25.756667,
+    "lng": -80.203558,
+    "time": "08:43 AM",
+    "timeline": [
+      {
+        "time": "08:43 AM",
+        "description": "Hazard incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "New York, NY",
+    "lat": 40.699857,
+    "lng": -73.989376,
+    "time": "10:03 AM",
+    "timeline": [
+      {
+        "time": "10:03 AM",
+        "description": "Helicopter incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "New York, NY",
+    "lat": 40.697297,
+    "lng": -73.999015,
+    "time": "10:55 AM",
+    "timeline": [
+      {
+        "time": "10:55 AM",
+        "description": "Wildfire incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Toronto, ON",
+    "lat": 43.668567,
+    "lng": -79.352681,
+    "time": "10:15 AM",
+    "timeline": [
+      {
+        "time": "10:15 AM",
+        "description": "Robbery/Theft incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "Chicago, IL",
+    "lat": 41.878117,
+    "lng": -87.612211,
+    "time": "10:19 AM",
+    "timeline": [
+      {
+        "time": "10:19 AM",
+        "description": "Hazard incident reported in Chicago, IL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude21",
+    "type": "Harassment",
+    "location": "Phoenix, AZ",
+    "lat": 33.431648,
+    "lng": -112.09269,
+    "time": "10:29 AM",
+    "timeline": [
+      {
+        "time": "10:29 AM",
+        "description": "Harassment incident reported in Phoenix, AZ."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Los Angeles, CA",
+    "lat": 34.06075,
+    "lng": -118.226865,
+    "time": "10:05 AM",
+    "timeline": [
+      {
+        "time": "10:05 AM",
+        "description": "Robbery/Theft incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc4a",
+    "type": "Assault",
+    "location": "New York, NY",
+    "lat": 40.706786,
+    "lng": -73.999826,
+    "time": "09:05 AM",
+    "timeline": [
+      {
+        "time": "09:05 AM",
+        "description": "Assault incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Denver, CO",
+    "lat": 39.746048,
+    "lng": -104.981239,
+    "time": "10:11 AM",
+    "timeline": [
+      {
+        "time": "10:11 AM",
+        "description": "Break In incident reported in Denver, CO."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc4a",
+    "type": "Assault",
+    "location": "Toronto, ON",
+    "lat": 43.655053,
+    "lng": -79.364007,
+    "time": "09:43 AM",
+    "timeline": [
+      {
+        "time": "09:43 AM",
+        "description": "Assault incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Phoenix, AZ",
+    "lat": 33.440462,
+    "lng": -112.080639,
+    "time": "08:15 AM",
+    "timeline": [
+      {
+        "time": "08:15 AM",
+        "description": "Missing Person incident reported in Phoenix, AZ."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "New York, NY",
+    "lat": 40.730012,
+    "lng": -74.003568,
+    "time": "09:14 AM",
+    "timeline": [
+      {
+        "time": "09:14 AM",
+        "description": "Wildfire incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Houston, TX",
+    "lat": 29.758429,
+    "lng": -95.362081,
+    "time": "10:55 AM",
+    "timeline": [
+      {
+        "time": "10:55 AM",
+        "description": "Robbery/Theft incident reported in Houston, TX."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Chicago, IL",
+    "lat": 41.872103,
+    "lng": -87.628555,
+    "time": "11:00 AM",
+    "timeline": [
+      {
+        "time": "11:00 AM",
+        "description": "Transit incident reported in Chicago, IL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Los Angeles, CA",
+    "lat": 34.055224,
+    "lng": -118.239815,
+    "time": "10:24 AM",
+    "timeline": [
+      {
+        "time": "10:24 AM",
+        "description": "Protest incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Phoenix, AZ",
+    "lat": 33.44851,
+    "lng": -112.067344,
+    "time": "09:12 AM",
+    "timeline": [
+      {
+        "time": "09:12 AM",
+        "description": "Rescue incident reported in Phoenix, AZ."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude21",
+    "type": "Harassment",
+    "location": "Toronto, ON",
+    "lat": 43.666876,
+    "lng": -79.333581,
+    "time": "09:56 AM",
+    "timeline": [
+      {
+        "time": "09:56 AM",
+        "description": "Harassment incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Los Angeles, CA",
+    "lat": 34.063044,
+    "lng": -118.228995,
+    "time": "10:36 AM",
+    "timeline": [
+      {
+        "time": "10:36 AM",
+        "description": "Earthquake incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "San Francisco, CA",
+    "lat": 37.763039,
+    "lng": -122.434625,
+    "time": "08:00 AM",
+    "timeline": [
+      {
+        "time": "08:00 AM",
+        "description": "Earthquake incident reported in San Francisco, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc3e",
+    "type": "Animal",
+    "location": "New York, NY",
+    "lat": 40.693013,
+    "lng": -73.993887,
+    "time": "08:09 AM",
+    "timeline": [
+      {
+        "time": "08:09 AM",
+        "description": "Animal incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Denver, CO",
+    "lat": 39.719565,
+    "lng": -104.986454,
+    "time": "08:14 AM",
+    "timeline": [
+      {
+        "time": "08:14 AM",
+        "description": "Missing Person incident reported in Denver, CO."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Miami, FL",
+    "lat": 25.763711,
+    "lng": -80.174593,
+    "time": "10:02 AM",
+    "timeline": [
+      {
+        "time": "10:02 AM",
+        "description": "Pursuit incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Seattle, WA",
+    "lat": 47.606927,
+    "lng": -122.324401,
+    "time": "10:06 AM",
+    "timeline": [
+      {
+        "time": "10:06 AM",
+        "description": "Earthquake incident reported in Seattle, WA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude21",
+    "type": "Harassment",
+    "location": "Los Angeles, CA",
+    "lat": 34.067227,
+    "lng": -118.22486,
+    "time": "08:15 AM",
+    "timeline": [
+      {
+        "time": "08:15 AM",
+        "description": "Harassment incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Denver, CO",
+    "lat": 39.741936,
+    "lng": -104.988192,
+    "time": "10:48 AM",
+    "timeline": [
+      {
+        "time": "10:48 AM",
+        "description": "Helicopter incident reported in Denver, CO."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Seattle, WA",
+    "lat": 47.618589,
+    "lng": -122.336171,
+    "time": "08:46 AM",
+    "timeline": [
+      {
+        "time": "08:46 AM",
+        "description": "Helicopter incident reported in Seattle, WA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Toronto, ON",
+    "lat": 43.66533,
+    "lng": -79.36189,
+    "time": "10:46 AM",
+    "timeline": [
+      {
+        "time": "10:46 AM",
+        "description": "Missing Person incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc3e",
+    "type": "Animal",
+    "location": "Phoenix, AZ",
+    "lat": 33.441182,
+    "lng": -112.059307,
+    "time": "08:29 AM",
+    "timeline": [
+      {
+        "time": "08:29 AM",
+        "description": "Animal incident reported in Phoenix, AZ."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Denver, CO",
+    "lat": 39.72598,
+    "lng": -104.99918,
+    "time": "10:29 AM",
+    "timeline": [
+      {
+        "time": "10:29 AM",
+        "description": "Gun incident reported in Denver, CO."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Miami, FL",
+    "lat": 25.778863,
+    "lng": -80.173721,
+    "time": "08:54 AM",
+    "timeline": [
+      {
+        "time": "08:54 AM",
+        "description": "Robbery/Theft incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc3e",
+    "type": "Animal",
+    "location": "Miami, FL",
+    "lat": 25.770142,
+    "lng": -80.20499,
+    "time": "08:56 AM",
+    "timeline": [
+      {
+        "time": "08:56 AM",
+        "description": "Animal incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "New York, NY",
+    "lat": 40.711181,
+    "lng": -74.024944,
+    "time": "09:35 AM",
+    "timeline": [
+      {
+        "time": "09:35 AM",
+        "description": "Wildfire incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Miami, FL",
+    "lat": 25.767675,
+    "lng": -80.190476,
+    "time": "10:19 AM",
+    "timeline": [
+      {
+        "time": "10:19 AM",
+        "description": "Pursuit incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Houston, TX",
+    "lat": 29.773353,
+    "lng": -95.386167,
+    "time": "10:35 AM",
+    "timeline": [
+      {
+        "time": "10:35 AM",
+        "description": "Weather incident reported in Houston, TX."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Los Angeles, CA",
+    "lat": 34.066952,
+    "lng": -118.255273,
+    "time": "10:44 AM",
+    "timeline": [
+      {
+        "time": "10:44 AM",
+        "description": "Pursuit incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "San Francisco, CA",
+    "lat": 37.773895,
+    "lng": -122.417107,
+    "time": "09:16 AM",
+    "timeline": [
+      {
+        "time": "09:16 AM",
+        "description": "Helicopter incident reported in San Francisco, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "San Francisco, CA",
+    "lat": 37.767573,
+    "lng": -122.425618,
+    "time": "08:37 AM",
+    "timeline": [
+      {
+        "time": "08:37 AM",
+        "description": "Robbery/Theft incident reported in San Francisco, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "New York, NY",
+    "lat": 40.723405,
+    "lng": -74.004351,
+    "time": "08:44 AM",
+    "timeline": [
+      {
+        "time": "08:44 AM",
+        "description": "Helicopter incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "Los Angeles, CA",
+    "lat": 34.050673,
+    "lng": -118.245907,
+    "time": "09:13 AM",
+    "timeline": [
+      {
+        "time": "09:13 AM",
+        "description": "Wildfire incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "Seattle, WA",
+    "lat": 47.594883,
+    "lng": -122.31979,
+    "time": "09:07 AM",
+    "timeline": [
+      {
+        "time": "09:07 AM",
+        "description": "Wildfire incident reported in Seattle, WA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc4a",
+    "type": "Assault",
+    "location": "Miami, FL",
+    "lat": 25.750685,
+    "lng": -80.20064,
+    "time": "09:42 AM",
+    "timeline": [
+      {
+        "time": "09:42 AM",
+        "description": "Assault incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Miami, FL",
+    "lat": 25.756697,
+    "lng": -80.205456,
+    "time": "10:57 AM",
+    "timeline": [
+      {
+        "time": "10:57 AM",
+        "description": "Pursuit incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Toronto, ON",
+    "lat": 43.651491,
+    "lng": -79.331853,
+    "time": "09:35 AM",
+    "timeline": [
+      {
+        "time": "09:35 AM",
+        "description": "Transit incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Denver, CO",
+    "lat": 39.734136,
+    "lng": -104.991121,
+    "time": "08:16 AM",
+    "timeline": [
+      {
+        "time": "08:16 AM",
+        "description": "Gun incident reported in Denver, CO."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Houston, TX",
+    "lat": 29.760877,
+    "lng": -95.389173,
+    "time": "10:28 AM",
+    "timeline": [
+      {
+        "time": "10:28 AM",
+        "description": "Weather incident reported in Houston, TX."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "Seattle, WA",
+    "lat": 47.612687,
+    "lng": -122.325184,
+    "time": "08:35 AM",
+    "timeline": [
+      {
+        "time": "08:35 AM",
+        "description": "Hazard incident reported in Seattle, WA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2a",
+    "type": "Weapon",
+    "location": "Los Angeles, CA",
+    "lat": 34.064464,
+    "lng": -118.253364,
+    "time": "08:30 AM",
+    "timeline": [
+      {
+        "time": "08:30 AM",
+        "description": "Weapon incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Houston, TX",
+    "lat": 29.776437,
+    "lng": -95.388157,
+    "time": "10:56 AM",
+    "timeline": [
+      {
+        "time": "10:56 AM",
+        "description": "Rescue incident reported in Houston, TX."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Denver, CO",
+    "lat": 39.73995,
+    "lng": -105.005846,
+    "time": "08:33 AM",
+    "timeline": [
+      {
+        "time": "08:33 AM",
+        "description": "Transit incident reported in Denver, CO."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Seattle, WA",
+    "lat": 47.596687,
+    "lng": -122.330473,
+    "time": "09:10 AM",
+    "timeline": [
+      {
+        "time": "09:10 AM",
+        "description": "Rescue incident reported in Seattle, WA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Phoenix, AZ",
+    "lat": 33.447622,
+    "lng": -112.081185,
+    "time": "08:25 AM",
+    "timeline": [
+      {
+        "time": "08:25 AM",
+        "description": "Missing Person incident reported in Phoenix, AZ."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Toronto, ON",
+    "lat": 43.645329,
+    "lng": -79.331673,
+    "time": "08:46 AM",
+    "timeline": [
+      {
+        "time": "08:46 AM",
+        "description": "Pursuit incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Chicago, IL",
+    "lat": 41.869951,
+    "lng": -87.640579,
+    "time": "08:50 AM",
+    "timeline": [
+      {
+        "time": "08:50 AM",
+        "description": "Helicopter incident reported in Chicago, IL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Houston, TX",
+    "lat": 29.75901,
+    "lng": -95.384472,
+    "time": "09:11 AM",
+    "timeline": [
+      {
+        "time": "09:11 AM",
+        "description": "Earthquake incident reported in Houston, TX."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Los Angeles, CA",
+    "lat": 34.041357,
+    "lng": -118.253872,
+    "time": "10:22 AM",
+    "timeline": [
+      {
+        "time": "10:22 AM",
+        "description": "Helicopter incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Los Angeles, CA",
+    "lat": 34.059499,
+    "lng": -118.231755,
+    "time": "10:46 AM",
+    "timeline": [
+      {
+        "time": "10:46 AM",
+        "description": "Helicopter incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Houston, TX",
+    "lat": 29.76483,
+    "lng": -95.359965,
+    "time": "09:39 AM",
+    "timeline": [
+      {
+        "time": "09:39 AM",
+        "description": "Weather incident reported in Houston, TX."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude21",
+    "type": "Harassment",
+    "location": "Toronto, ON",
+    "lat": 43.637269,
+    "lng": -79.352892,
+    "time": "08:37 AM",
+    "timeline": [
+      {
+        "time": "08:37 AM",
+        "description": "Harassment incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Denver, CO",
+    "lat": 39.752372,
+    "lng": -104.992291,
+    "time": "09:32 AM",
+    "timeline": [
+      {
+        "time": "09:32 AM",
+        "description": "Pursuit incident reported in Denver, CO."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Phoenix, AZ",
+    "lat": 33.439912,
+    "lng": -112.078087,
+    "time": "08:03 AM",
+    "timeline": [
+      {
+        "time": "08:03 AM",
+        "description": "Pursuit incident reported in Phoenix, AZ."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Seattle, WA",
+    "lat": 47.60411,
+    "lng": -122.334166,
+    "time": "09:05 AM",
+    "timeline": [
+      {
+        "time": "09:05 AM",
+        "description": "Gun incident reported in Seattle, WA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "San Francisco, CA",
+    "lat": 37.784817,
+    "lng": -122.432667,
+    "time": "09:25 AM",
+    "timeline": [
+      {
+        "time": "09:25 AM",
+        "description": "Transit incident reported in San Francisco, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "New York, NY",
+    "lat": 40.726043,
+    "lng": -74.008552,
+    "time": "08:17 AM",
+    "timeline": [
+      {
+        "time": "08:17 AM",
+        "description": "Wildfire incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "New York, NY",
+    "lat": 40.721087,
+    "lng": -74.019402,
+    "time": "11:00 AM",
+    "timeline": [
+      {
+        "time": "11:00 AM",
+        "description": "Transit incident reported in New York, NY."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "Toronto, ON",
+    "lat": 43.655565,
+    "lng": -79.356003,
+    "time": "08:52 AM",
+    "timeline": [
+      {
+        "time": "08:52 AM",
+        "description": "Wildfire incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Toronto, ON",
+    "lat": 43.655718,
+    "lng": -79.337424,
+    "time": "10:55 AM",
+    "timeline": [
+      {
+        "time": "10:55 AM",
+        "description": "Helicopter incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Seattle, WA",
+    "lat": 47.591703,
+    "lng": -122.314463,
+    "time": "08:28 AM",
+    "timeline": [
+      {
+        "time": "08:28 AM",
+        "description": "Gun incident reported in Seattle, WA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Chicago, IL",
+    "lat": 41.885839,
+    "lng": -87.635173,
+    "time": "08:28 AM",
+    "timeline": [
+      {
+        "time": "08:28 AM",
+        "description": "Missing Person incident reported in Chicago, IL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc3e",
+    "type": "Animal",
+    "location": "Seattle, WA",
+    "lat": 47.611741,
+    "lng": -122.346605,
+    "time": "10:56 AM",
+    "timeline": [
+      {
+        "time": "10:56 AM",
+        "description": "Animal incident reported in Seattle, WA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc3e",
+    "type": "Animal",
+    "location": "Phoenix, AZ",
+    "lat": 33.458726,
+    "lng": -112.074422,
+    "time": "08:23 AM",
+    "timeline": [
+      {
+        "time": "08:23 AM",
+        "description": "Animal incident reported in Phoenix, AZ."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "Miami, FL",
+    "lat": 25.747229,
+    "lng": -80.173118,
+    "time": "09:27 AM",
+    "timeline": [
+      {
+        "time": "09:27 AM",
+        "description": "Hazard incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Los Angeles, CA",
+    "lat": 34.069803,
+    "lng": -118.255859,
+    "time": "09:21 AM",
+    "timeline": [
+      {
+        "time": "09:21 AM",
+        "description": "Gun incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Toronto, ON",
+    "lat": 43.644303,
+    "lng": -79.357657,
+    "time": "10:11 AM",
+    "timeline": [
+      {
+        "time": "10:11 AM",
+        "description": "Transit incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc4a",
+    "type": "Assault",
+    "location": "Chicago, IL",
+    "lat": 41.881638,
+    "lng": -87.64196,
+    "time": "09:29 AM",
+    "timeline": [
+      {
+        "time": "09:29 AM",
+        "description": "Assault incident reported in Chicago, IL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Denver, CO",
+    "lat": 39.725765,
+    "lng": -104.996309,
+    "time": "09:27 AM",
+    "timeline": [
+      {
+        "time": "09:27 AM",
+        "description": "Break In incident reported in Denver, CO."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Los Angeles, CA",
+    "lat": 34.033962,
+    "lng": -118.256683,
+    "time": "09:59 AM",
+    "timeline": [
+      {
+        "time": "09:59 AM",
+        "description": "Helicopter incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "Miami, FL",
+    "lat": 25.777185,
+    "lng": -80.189511,
+    "time": "09:45 AM",
+    "timeline": [
+      {
+        "time": "09:45 AM",
+        "description": "Wildfire incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "San Francisco, CA",
+    "lat": 37.764008,
+    "lng": -122.408213,
+    "time": "08:23 AM",
+    "timeline": [
+      {
+        "time": "08:23 AM",
+        "description": "Robbery/Theft incident reported in San Francisco, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc4a",
+    "type": "Assault",
+    "location": "Toronto, ON",
+    "lat": 43.637908,
+    "lng": -79.332161,
+    "time": "09:18 AM",
+    "timeline": [
+      {
+        "time": "09:18 AM",
+        "description": "Assault incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Denver, CO",
+    "lat": 39.731758,
+    "lng": -104.998896,
+    "time": "08:04 AM",
+    "timeline": [
+      {
+        "time": "08:04 AM",
+        "description": "Transit incident reported in Denver, CO."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Chicago, IL",
+    "lat": 41.881716,
+    "lng": -87.637131,
+    "time": "08:09 AM",
+    "timeline": [
+      {
+        "time": "08:09 AM",
+        "description": "Pursuit incident reported in Chicago, IL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Miami, FL",
+    "lat": 25.752454,
+    "lng": -80.208114,
+    "time": "09:37 AM",
+    "timeline": [
+      {
+        "time": "09:37 AM",
+        "description": "Pursuit incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Los Angeles, CA",
+    "lat": 34.04244,
+    "lng": -118.256459,
+    "time": "10:25 AM",
+    "timeline": [
+      {
+        "time": "10:25 AM",
+        "description": "Pursuit incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "Miami, FL",
+    "lat": 25.779999,
+    "lng": -80.198429,
+    "time": "10:40 AM",
+    "timeline": [
+      {
+        "time": "10:40 AM",
+        "description": "Hazard incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "Houston, TX",
+    "lat": 29.769658,
+    "lng": -95.356387,
+    "time": "10:53 AM",
+    "timeline": [
+      {
+        "time": "10:53 AM",
+        "description": "Wildfire incident reported in Houston, TX."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Houston, TX",
+    "lat": 29.758488,
+    "lng": -95.368519,
+    "time": "08:54 AM",
+    "timeline": [
+      {
+        "time": "08:54 AM",
+        "description": "Break In incident reported in Houston, TX."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Toronto, ON",
+    "lat": 43.645937,
+    "lng": -79.361698,
+    "time": "10:40 AM",
+    "timeline": [
+      {
+        "time": "10:40 AM",
+        "description": "Break In incident reported in Toronto, ON."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Los Angeles, CA",
+    "lat": 34.045006,
+    "lng": -118.247455,
+    "time": "10:26 AM",
+    "timeline": [
+      {
+        "time": "10:26 AM",
+        "description": "Transit incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Denver, CO",
+    "lat": 39.728542,
+    "lng": -104.972156,
+    "time": "09:24 AM",
+    "timeline": [
+      {
+        "time": "09:24 AM",
+        "description": "Earthquake incident reported in Denver, CO."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "Phoenix, AZ",
+    "lat": 33.459626,
+    "lng": -112.088761,
+    "time": "08:09 AM",
+    "timeline": [
+      {
+        "time": "08:09 AM",
+        "description": "Hazard incident reported in Phoenix, AZ."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Miami, FL",
+    "lat": 25.748907,
+    "lng": -80.185694,
+    "time": "09:03 AM",
+    "timeline": [
+      {
+        "time": "09:03 AM",
+        "description": "Robbery/Theft incident reported in Miami, FL."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Los Angeles, CA",
+    "lat": 34.058491,
+    "lng": -118.236866,
+    "time": "08:18 AM",
+    "timeline": [
+      {
+        "time": "08:18 AM",
+        "description": "Pursuit incident reported in Los Angeles, CA."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Mumbai",
+    "lat": 19.1125,
+    "lng": 72.924688,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Rescue incident reported in Mumbai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Surat",
+    "lat": 21.19632,
+    "lng": 72.857173,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Earthquake incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Chennai",
+    "lat": 13.120546,
+    "lng": 80.287911,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Robbery/Theft incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc3e",
+    "type": "Animal",
+    "location": "Delhi",
+    "lat": 28.614714,
+    "lng": 77.238902,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Animal incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Surat",
+    "lat": 21.121472,
+    "lng": 72.788822,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weather incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2a",
+    "type": "Weapon",
+    "location": "Mumbai",
+    "lat": 19.035845,
+    "lng": 72.882537,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weapon incident reported in Mumbai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc4a",
+    "type": "Assault",
+    "location": "Bangalore",
+    "lat": 12.936283,
+    "lng": 77.601996,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Assault incident reported in Bangalore."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Kolkata",
+    "lat": 22.535785,
+    "lng": 88.337894,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Protest incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Bangalore",
+    "lat": 12.988649,
+    "lng": 77.628708,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Bangalore."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Chennai",
+    "lat": 13.049906,
+    "lng": 80.305153,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Protest incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Hyderabad",
+    "lat": 17.38496,
+    "lng": 78.495399,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Robbery/Theft incident reported in Hyderabad."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Bangalore",
+    "lat": 13.021002,
+    "lng": 77.624291,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Gun incident reported in Bangalore."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "Surat",
+    "lat": 21.202255,
+    "lng": 72.80491,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Wildfire incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc4a",
+    "type": "Assault",
+    "location": "Delhi",
+    "lat": 28.611618,
+    "lng": 77.211041,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Assault incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Mumbai",
+    "lat": 19.043464,
+    "lng": 72.88926,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Transit incident reported in Mumbai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Hyderabad",
+    "lat": 17.420375,
+    "lng": 78.48156,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Robbery/Theft incident reported in Hyderabad."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Delhi",
+    "lat": 28.649555,
+    "lng": 77.206341,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Helicopter incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Mumbai",
+    "lat": 19.101013,
+    "lng": 72.830053,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Helicopter incident reported in Mumbai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Chennai",
+    "lat": 13.101979,
+    "lng": 80.265092,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Robbery/Theft incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Kolkata",
+    "lat": 22.557271,
+    "lng": 88.352856,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Helicopter incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Kolkata",
+    "lat": 22.570186,
+    "lng": 88.374845,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Robbery/Theft incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude21",
+    "type": "Harassment",
+    "location": "Chennai",
+    "lat": 13.100067,
+    "lng": 80.316087,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Harassment incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Hyderabad",
+    "lat": 17.432355,
+    "lng": 78.465891,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Hyderabad."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Chennai",
+    "lat": 13.045746,
+    "lng": 80.281124,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Break In incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Kolkata",
+    "lat": 22.544615,
+    "lng": 88.402111,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Delhi",
+    "lat": 28.588176,
+    "lng": 77.160293,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Transit incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Chennai",
+    "lat": 13.072051,
+    "lng": 80.274337,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Pursuit incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude21",
+    "type": "Harassment",
+    "location": "Delhi",
+    "lat": 28.626827,
+    "lng": 77.175605,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Harassment incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Delhi",
+    "lat": 28.621928,
+    "lng": 77.223387,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Break In incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Surat",
+    "lat": 21.209996,
+    "lng": 72.781353,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Rescue incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2a",
+    "type": "Weapon",
+    "location": "Delhi",
+    "lat": 28.650371,
+    "lng": 77.239253,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weapon incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Chennai",
+    "lat": 13.116228,
+    "lng": 80.27376,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Rescue incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Surat",
+    "lat": 21.126881,
+    "lng": 72.816134,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2a",
+    "type": "Weapon",
+    "location": "Mumbai",
+    "lat": 19.058325,
+    "lng": 72.85484,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weapon incident reported in Mumbai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Mumbai",
+    "lat": 19.036673,
+    "lng": 72.833319,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Gun incident reported in Mumbai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Bangalore",
+    "lat": 12.92887,
+    "lng": 77.609076,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Bangalore."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude21",
+    "type": "Harassment",
+    "location": "Delhi",
+    "lat": 28.644844,
+    "lng": 77.160798,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Harassment incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "Kolkata",
+    "lat": 22.609426,
+    "lng": 88.374033,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Wildfire incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Kolkata",
+    "lat": 22.549168,
+    "lng": 88.383157,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Pursuit incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Kolkata",
+    "lat": 22.540612,
+    "lng": 88.346729,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Earthquake incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Surat",
+    "lat": 21.181259,
+    "lng": 72.86025,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Robbery/Theft incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2a",
+    "type": "Weapon",
+    "location": "Hyderabad",
+    "lat": 17.434475,
+    "lng": 78.445575,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weapon incident reported in Hyderabad."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "Kolkata",
+    "lat": 22.583836,
+    "lng": 88.412579,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Hazard incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Delhi",
+    "lat": 28.662714,
+    "lng": 77.211525,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weather incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Hyderabad",
+    "lat": 17.34473,
+    "lng": 78.468159,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Transit incident reported in Hyderabad."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "Kolkata",
+    "lat": 22.605527,
+    "lng": 88.337867,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Wildfire incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Kolkata",
+    "lat": 22.556632,
+    "lng": 88.389022,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Earthquake incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Surat",
+    "lat": 21.211509,
+    "lng": 72.806965,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Helicopter incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Kolkata",
+    "lat": 22.590864,
+    "lng": 88.390384,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "Bangalore",
+    "lat": 13.009665,
+    "lng": 77.613781,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Hazard incident reported in Bangalore."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Chennai",
+    "lat": 13.065021,
+    "lng": 80.305893,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Helicopter incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Kolkata",
+    "lat": 22.529839,
+    "lng": 88.353797,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "Surat",
+    "lat": 21.162544,
+    "lng": 72.858515,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Hazard incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Kolkata",
+    "lat": 22.530931,
+    "lng": 88.338203,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Rescue incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc3e",
+    "type": "Animal",
+    "location": "Chennai",
+    "lat": 13.04982,
+    "lng": 80.233089,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Animal incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Chennai",
+    "lat": 13.123984,
+    "lng": 80.229396,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Rescue incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Kolkata",
+    "lat": 22.555331,
+    "lng": 88.362755,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Earthquake incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Bangalore",
+    "lat": 13.012135,
+    "lng": 77.622099,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Protest incident reported in Bangalore."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Surat",
+    "lat": 21.213732,
+    "lng": 72.817172,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Protest incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Delhi",
+    "lat": 28.650877,
+    "lng": 77.225914,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Earthquake incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Surat",
+    "lat": 21.135466,
+    "lng": 72.848076,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Transit incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc3e",
+    "type": "Animal",
+    "location": "Bangalore",
+    "lat": 12.983986,
+    "lng": 77.630803,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Animal incident reported in Bangalore."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Delhi",
+    "lat": 28.639748,
+    "lng": 77.162488,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Protest incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "Mumbai",
+    "lat": 19.063706,
+    "lng": 72.887017,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Hazard incident reported in Mumbai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Kolkata",
+    "lat": 22.576603,
+    "lng": 88.321012,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc3e",
+    "type": "Animal",
+    "location": "Chennai",
+    "lat": 13.034857,
+    "lng": 80.228901,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Animal incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Hyderabad",
+    "lat": 17.387058,
+    "lng": 78.474923,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weather incident reported in Hyderabad."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Chennai",
+    "lat": 13.084735,
+    "lng": 80.228863,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Delhi",
+    "lat": 28.624152,
+    "lng": 77.181625,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weather incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Mumbai",
+    "lat": 19.041493,
+    "lng": 72.845734,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Mumbai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Kolkata",
+    "lat": 22.551527,
+    "lng": 88.315838,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Kolkata",
+    "lat": 22.542071,
+    "lng": 88.366554,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Rescue incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Delhi",
+    "lat": 28.575865,
+    "lng": 77.239078,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Earthquake incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc3e",
+    "type": "Animal",
+    "location": "Hyderabad",
+    "lat": 17.336072,
+    "lng": 78.532122,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Animal incident reported in Hyderabad."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude21",
+    "type": "Harassment",
+    "location": "Chennai",
+    "lat": 13.054765,
+    "lng": 80.242903,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Harassment incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc4a",
+    "type": "Assault",
+    "location": "Kolkata",
+    "lat": 22.543172,
+    "lng": 88.372191,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Assault incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Chennai",
+    "lat": 13.087899,
+    "lng": 80.232925,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Rescue incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Delhi",
+    "lat": 28.591037,
+    "lng": 77.222488,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Helicopter incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2a",
+    "type": "Weapon",
+    "location": "Hyderabad",
+    "lat": 17.386907,
+    "lng": 78.516354,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weapon incident reported in Hyderabad."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Mumbai",
+    "lat": 19.03463,
+    "lng": 72.923605,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Rescue incident reported in Mumbai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Bangalore",
+    "lat": 12.927764,
+    "lng": 77.628966,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Earthquake incident reported in Bangalore."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Mumbai",
+    "lat": 19.053251,
+    "lng": 72.908236,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Gun incident reported in Mumbai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Bangalore",
+    "lat": 13.002107,
+    "lng": 77.553533,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Bangalore."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Surat",
+    "lat": 21.166923,
+    "lng": 72.865997,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Robbery/Theft incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Surat",
+    "lat": 21.203638,
+    "lng": 72.787554,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Robbery/Theft incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Chennai",
+    "lat": 13.119861,
+    "lng": 80.282535,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Rescue incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Chennai",
+    "lat": 13.043033,
+    "lng": 80.287611,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Break In incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Mumbai",
+    "lat": 19.103342,
+    "lng": 72.912336,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weather incident reported in Mumbai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Mumbai",
+    "lat": 19.110696,
+    "lng": 72.916649,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Protest incident reported in Mumbai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Mumbai",
+    "lat": 19.028045,
+    "lng": 72.82869,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Break In incident reported in Mumbai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Hyderabad",
+    "lat": 17.374645,
+    "lng": 78.4709,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Protest incident reported in Hyderabad."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Chennai",
+    "lat": 13.112205,
+    "lng": 80.271682,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Helicopter incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Kolkata",
+    "lat": 22.553777,
+    "lng": 88.372038,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weather incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Kolkata",
+    "lat": 22.551495,
+    "lng": 88.339937,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Protest incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2a",
+    "type": "Weapon",
+    "location": "Chennai",
+    "lat": 13.048607,
+    "lng": 80.256743,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weapon incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Hyderabad",
+    "lat": 17.384068,
+    "lng": 78.487658,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Protest incident reported in Hyderabad."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2a",
+    "type": "Weapon",
+    "location": "Chennai",
+    "lat": 13.122942,
+    "lng": 80.283075,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weapon incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Delhi",
+    "lat": 28.645928,
+    "lng": 77.163244,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Kolkata",
+    "lat": 22.566879,
+    "lng": 88.411498,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Earthquake incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "Hyderabad",
+    "lat": 17.41156,
+    "lng": 78.498318,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Hazard incident reported in Hyderabad."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "Surat",
+    "lat": 21.178212,
+    "lng": 72.84512,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Hazard incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Bangalore",
+    "lat": 12.961573,
+    "lng": 77.591137,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Gun incident reported in Bangalore."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Delhi",
+    "lat": 28.605752,
+    "lng": 77.249307,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Robbery/Theft incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Kolkata",
+    "lat": 22.62174,
+    "lng": 88.354728,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Protest incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "Hyderabad",
+    "lat": 17.409742,
+    "lng": 78.528808,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Hazard incident reported in Hyderabad."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc4a",
+    "type": "Assault",
+    "location": "Surat",
+    "lat": 21.155732,
+    "lng": 72.860476,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Assault incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Delhi",
+    "lat": 28.617419,
+    "lng": 77.204929,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Rescue incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "Kolkata",
+    "lat": 22.589782,
+    "lng": 88.39317,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Hazard incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Bangalore",
+    "lat": 13.011189,
+    "lng": 77.60694,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Helicopter incident reported in Bangalore."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "Hyderabad",
+    "lat": 17.352905,
+    "lng": 78.503977,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Wildfire incident reported in Hyderabad."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Bangalore",
+    "lat": 12.959669,
+    "lng": 77.553774,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Bangalore."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Delhi",
+    "lat": 28.609196,
+    "lng": 77.186982,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weather incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Delhi",
+    "lat": 28.649237,
+    "lng": 77.219948,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weather incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc4a",
+    "type": "Assault",
+    "location": "Surat",
+    "lat": 21.215366,
+    "lng": 72.872913,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Assault incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Mumbai",
+    "lat": 19.057857,
+    "lng": 72.897833,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Pursuit incident reported in Mumbai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "Surat",
+    "lat": 21.201186,
+    "lng": 72.798493,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Wildfire incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Surat",
+    "lat": 21.219781,
+    "lng": 72.850111,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Gun incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Chennai",
+    "lat": 13.048229,
+    "lng": 80.235106,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Transit incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Surat",
+    "lat": 21.170413,
+    "lng": 72.781933,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Protest incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Delhi",
+    "lat": 28.613482,
+    "lng": 77.174525,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Transit incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Chennai",
+    "lat": 13.10419,
+    "lng": 80.24007,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Helicopter incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Kolkata",
+    "lat": 22.5318,
+    "lng": 88.357146,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Robbery/Theft incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Delhi",
+    "lat": 28.598411,
+    "lng": 77.248379,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Pursuit incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Kolkata",
+    "lat": 22.546033,
+    "lng": 88.363342,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Surat",
+    "lat": 21.214387,
+    "lng": 72.827577,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weather incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Surat",
+    "lat": 21.188898,
+    "lng": 72.7987,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Rescue incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Delhi",
+    "lat": 28.663596,
+    "lng": 77.179867,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Protest incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc3e",
+    "type": "Animal",
+    "location": "Mumbai",
+    "lat": 19.046978,
+    "lng": 72.90529,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Animal incident reported in Mumbai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Kolkata",
+    "lat": 22.52608,
+    "lng": 88.373082,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Gun incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Kolkata",
+    "lat": 22.532572,
+    "lng": 88.345179,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Pursuit incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Kolkata",
+    "lat": 22.527347,
+    "lng": 88.402519,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Earthquake incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Hyderabad",
+    "lat": 17.351938,
+    "lng": 78.53574,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Pursuit incident reported in Hyderabad."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Surat",
+    "lat": 21.203785,
+    "lng": 72.819107,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Pursuit incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Surat",
+    "lat": 21.143037,
+    "lng": 72.860423,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Pursuit incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Surat",
+    "lat": 21.143386,
+    "lng": 72.854824,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Robbery/Theft incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Mumbai",
+    "lat": 19.056971,
+    "lng": 72.871136,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Gun incident reported in Mumbai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2a",
+    "type": "Weapon",
+    "location": "Kolkata",
+    "lat": 22.544807,
+    "lng": 88.323113,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weapon incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Mumbai",
+    "lat": 19.10668,
+    "lng": 72.873612,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Earthquake incident reported in Mumbai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Surat",
+    "lat": 21.197412,
+    "lng": 72.871618,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Pursuit incident reported in Surat."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2a",
+    "type": "Weapon",
+    "location": "Hyderabad",
+    "lat": 17.339148,
+    "lng": 78.486778,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weapon incident reported in Hyderabad."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Delhi",
+    "lat": 28.595658,
+    "lng": 77.174848,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Rescue incident reported in Delhi."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude21",
+    "type": "Harassment",
+    "location": "Bangalore",
+    "lat": 12.92728,
+    "lng": 77.632664,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Harassment incident reported in Bangalore."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "Chennai",
+    "lat": 13.062755,
+    "lng": 80.228833,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Wildfire incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Chennai",
+    "lat": 13.043952,
+    "lng": 80.259387,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Transit incident reported in Chennai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc4a",
+    "type": "Assault",
+    "location": "Hyderabad",
+    "lat": 17.43462,
+    "lng": 78.520413,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Assault incident reported in Hyderabad."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Mumbai",
+    "lat": 19.110932,
+    "lng": 72.896126,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Break In incident reported in Mumbai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude21",
+    "type": "Harassment",
+    "location": "Kolkata",
+    "lat": 22.528602,
+    "lng": 88.373562,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Harassment incident reported in Kolkata."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc3e",
+    "type": "Animal",
+    "location": "Hyderabad",
+    "lat": 17.344895,
+    "lng": 78.4659,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Animal incident reported in Hyderabad."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Mumbai",
+    "lat": 19.096211,
+    "lng": 72.869295,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Earthquake incident reported in Mumbai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfc3",
+    "type": "Pursuit",
+    "location": "Hyderabad",
+    "lat": 17.395393,
+    "lng": 78.447708,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Pursuit incident reported in Hyderabad."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Dubai",
+    "lat": 25.227256,
+    "lng": 55.272659,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Break In incident reported in Dubai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Dubai",
+    "lat": 25.276135,
+    "lng": 55.342047,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Break In incident reported in Dubai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Dubai",
+    "lat": 25.314337,
+    "lng": 55.288878,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Dubai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Dubai",
+    "lat": 25.234678,
+    "lng": 55.308795,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Robbery/Theft incident reported in Dubai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Dubai",
+    "lat": 25.262088,
+    "lng": 55.256963,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Robbery/Theft incident reported in Dubai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Dubai",
+    "lat": 25.299648,
+    "lng": 55.249462,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Protest incident reported in Dubai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude21",
+    "type": "Harassment",
+    "location": "Dubai",
+    "lat": 25.288181,
+    "lng": 55.302998,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Harassment incident reported in Dubai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Dubai",
+    "lat": 25.321047,
+    "lng": 55.292114,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Helicopter incident reported in Dubai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Dubai",
+    "lat": 25.230108,
+    "lng": 55.255895,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Rescue incident reported in Dubai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Dubai",
+    "lat": 25.315348,
+    "lng": 55.306169,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Protest incident reported in Dubai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2a",
+    "type": "Weapon",
+    "location": "Beijing",
+    "lat": 39.886992,
+    "lng": 116.364538,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weapon incident reported in Beijing."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Beijing",
+    "lat": 39.893036,
+    "lng": 116.370187,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Beijing."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Beijing",
+    "lat": 39.896881,
+    "lng": 116.359462,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Earthquake incident reported in Beijing."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Beijing",
+    "lat": 39.913127,
+    "lng": 116.435989,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Earthquake incident reported in Beijing."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Shanghai",
+    "lat": 31.194602,
+    "lng": 121.488225,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Protest incident reported in Shanghai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Beijing",
+    "lat": 39.941252,
+    "lng": 116.45437,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Protest incident reported in Beijing."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Beijing",
+    "lat": 39.918578,
+    "lng": 116.408511,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Break In incident reported in Beijing."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Beijing",
+    "lat": 39.918729,
+    "lng": 116.4417,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Protest incident reported in Beijing."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Shanghai",
+    "lat": 31.244938,
+    "lng": 121.504448,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Earthquake incident reported in Shanghai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Shanghai",
+    "lat": 31.252332,
+    "lng": 121.424145,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Earthquake incident reported in Shanghai."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Beijing",
+    "lat": 39.914978,
+    "lng": 116.417319,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weather incident reported in Beijing."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udfd4",
+    "type": "Earthquake",
+    "location": "Shanghai",
+    "lat": 31.252481,
+    "lng": 121.428625,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Earthquake incident reported in Shanghai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Beijing",
+    "lat": 39.949636,
+    "lng": 116.367747,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Helicopter incident reported in Beijing."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc4a",
+    "type": "Assault",
+    "location": "Shanghai",
+    "lat": 31.26126,
+    "lng": 121.494124,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Assault incident reported in Shanghai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Beijing",
+    "lat": 39.871234,
+    "lng": 116.435918,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Beijing."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Beijing",
+    "lat": 39.947878,
+    "lng": 116.427899,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Break In incident reported in Beijing."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Shanghai",
+    "lat": 31.252225,
+    "lng": 121.497939,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Rescue incident reported in Shanghai."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Shanghai",
+    "lat": 31.214184,
+    "lng": 121.457061,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weather incident reported in Shanghai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Shanghai",
+    "lat": 31.199981,
+    "lng": 121.50362,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Transit incident reported in Shanghai."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Beijing",
+    "lat": 39.895379,
+    "lng": 116.416333,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Gun incident reported in Beijing."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude21",
+    "type": "Harassment",
+    "location": "Tokyo",
+    "lat": 35.722002,
+    "lng": 139.632025,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Harassment incident reported in Tokyo."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Tokyo",
+    "lat": 35.65628,
+    "lng": 139.682684,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Break In incident reported in Tokyo."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\ude9f",
+    "type": "Break In",
+    "location": "Tokyo",
+    "lat": 35.688858,
+    "lng": 139.64059,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Break In incident reported in Tokyo."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Tokyo",
+    "lat": 35.687019,
+    "lng": 139.683729,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Tokyo."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Tokyo",
+    "lat": 35.705962,
+    "lng": 139.673099,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weather incident reported in Tokyo."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Seoul",
+    "lat": 37.564177,
+    "lng": 127.006459,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Seoul."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude8c",
+    "type": "Transit",
+    "location": "Seoul",
+    "lat": 37.614009,
+    "lng": 127.016528,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Transit incident reported in Seoul."
+      }
+    ]
+  },
+  {
+    "emoji": "\u26a0",
+    "type": "Hazard",
+    "location": "Seoul",
+    "lat": 37.566788,
+    "lng": 126.974242,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Hazard incident reported in Seoul."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83e\udd77",
+    "type": "Robbery/Theft",
+    "location": "Seoul",
+    "lat": 37.605264,
+    "lng": 126.960929,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Robbery/Theft incident reported in Seoul."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd0d",
+    "type": "Missing Person",
+    "location": "Seoul",
+    "lat": 37.558999,
+    "lng": 127.017812,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Missing Person incident reported in Seoul."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Seoul",
+    "lat": 37.539468,
+    "lng": 126.97585,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Rescue incident reported in Seoul."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2a",
+    "type": "Weapon",
+    "location": "Seoul",
+    "lat": 37.592503,
+    "lng": 126.999345,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weapon incident reported in Seoul."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc4a",
+    "type": "Assault",
+    "location": "Seoul",
+    "lat": 37.606497,
+    "lng": 126.996578,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Assault incident reported in Seoul."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udce2",
+    "type": "Protest",
+    "location": "Seoul",
+    "lat": 37.579126,
+    "lng": 126.990151,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Protest incident reported in Seoul."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\ude81",
+    "type": "Helicopter",
+    "location": "Seoul",
+    "lat": 37.597165,
+    "lng": 126.970256,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Helicopter incident reported in Seoul."
+      }
+    ]
+  },
+  {
+    "emoji": "\u2601",
+    "type": "Weather",
+    "location": "Seoul",
+    "lat": 37.526836,
+    "lng": 126.952864,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Weather incident reported in Seoul."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udc4a",
+    "type": "Assault",
+    "location": "Seoul",
+    "lat": 37.592859,
+    "lng": 126.940389,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Assault incident reported in Seoul."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83c\udf33",
+    "type": "Wildfire",
+    "location": "Seoul",
+    "lat": 37.586881,
+    "lng": 126.940538,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Wildfire incident reported in Seoul."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udedf",
+    "type": "Rescue",
+    "location": "Seoul",
+    "lat": 37.567153,
+    "lng": 126.966681,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Rescue incident reported in Seoul."
+      }
+    ]
+  },
+  {
+    "emoji": "\ud83d\udd2b",
+    "type": "Gun",
+    "location": "Seoul",
+    "lat": 37.526042,
+    "lng": 126.954787,
+    "time": "06:13 PM",
+    "timeline": [
+      {
+        "time": "06:13 PM",
+        "description": "Gun incident reported in Seoul."
+      }
+    ]
+  }
+]
