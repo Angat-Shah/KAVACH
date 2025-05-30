@@ -60,8 +60,8 @@ class _HomeScreenState extends State<HomeScreen>
     },
     {
       'label': 'Settings',
-      'icon': 'assets/icons/user.png',
-      'icon_active': 'assets/icons/user_active.png',
+      'icon': 'assets/icons/settings.png',
+      'icon_active': 'assets/icons/settings_active.png',
     },
   ];
 

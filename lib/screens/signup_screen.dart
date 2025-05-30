@@ -142,12 +142,13 @@ class _SignUpScreenState extends State<SignUpScreen>
       if (!mounted) return;
 
       print('Navigating to HomeScreen...');
-      Navigator.pushReplacement(
+      Navigator.pushAndRemoveUntil(
         context,
         MaterialPageRoute(
           builder: (context) =>
               HomeScreen(camera: camera, chatService: chatService),
         ),
+        (Route<dynamic> route) => false, // This removes all previous routes
       );
     } catch (e, stackTrace) {
       print('Google Sign-In error: $e');

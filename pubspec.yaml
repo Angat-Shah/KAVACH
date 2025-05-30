@@ -80,6 +80,7 @@ flutter:
     - assets/images/SHIELD_LOGO.png
     - assets/images/SHIELD_LOGO-NOBG.png
     - assets/images/profile.jpg
+    - assets/images/profile_picture.jpeg
 
     - assets/.env
     - assets/dialog_flow_auth.json
@@ -96,6 +97,8 @@ flutter:
     - assets/icons/chat_active.png
     - assets/icons/user.png
     - assets/icons/user_active.png
+    - assets/icons/settings.png
+    - assets/icons/settings_active.png
     - assets/icons/file.png
     - assets/icons/file_active.png
     - assets/icons/news.png

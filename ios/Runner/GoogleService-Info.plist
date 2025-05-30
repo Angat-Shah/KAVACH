@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>28593247285-aagtr369vh3hk1c8jh3arsijf521pj6o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.28593247285-aagtr369vh3hk1c8jh3arsijf521pj6o</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>28593247285-ebur07gg8r3vh58n09od9crv7elag84c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDj51-cOGw0MajGmChHyRnHxc_hacdQmRU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>28593247285</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.kavach</string>
+	<key>PROJECT_ID</key>
+	<string>kavach-c9d5b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kavach-c9d5b.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:28593247285:ios:e1cccb8b2e91cfaf74cd7c</string>
+</dict>
+</plist>

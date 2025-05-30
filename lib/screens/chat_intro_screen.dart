@@ -18,6 +18,7 @@ class ChatIntroScreen extends StatelessWidget {
         surfaceTintColor: Colors.white,
         scrolledUnderElevation: 1,
         shadowColor: const Color(0xFF000000).withOpacity(0.7),
+        automaticallyImplyLeading: false,
         title: Row(
           mainAxisSize: MainAxisSize.min,
           children: [

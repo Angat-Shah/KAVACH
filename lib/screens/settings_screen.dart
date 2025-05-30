@@ -91,6 +91,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
         scrolledUnderElevation: 1,
         elevation: 0,
         shadowColor: Colors.black.withOpacity(0.7),
+        automaticallyImplyLeading: false,
       ),
       body: CustomScrollView(
         physics: const BouncingScrollPhysics(),
@@ -257,7 +258,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 image:
                     photoUrl != null
                         ? NetworkImage(photoUrl)
-                        : const AssetImage('assets/images/profile.jpg')
+                        : const AssetImage('assets/images/profile_picture.jpeg')
                             as ImageProvider,
                 fit: BoxFit.cover,
               ),
