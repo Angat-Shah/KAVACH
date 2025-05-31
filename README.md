@@ -104,33 +104,33 @@ To run Kavach locally, ensure you have the following installed:
 Below are screenshots showcasing key features of the Kavach app:
 
 - **Splash Screen**: The initial splash screen displaying the Kavach logo.  
-  ![Splash Screen](https://github.com/Angat-Shah/Kavach-HackVortex/blob/main/screenshots/splash-screen.png)
+  ![Splash Screen](https://github.com/Angat-Shah/Kavach-HackVortex/screenshots/splash-screen.PNG)
 
 - **Home Screen**: Displays the main dashboard with options for reporting incidents, quick access to emergency contacts, and recent reports.  
-  ![Home Screen](https://github.com/Angat-Shah/Kavach-HackVortex/blob/main/screenshots/home-screen.png)
+  ![Home Screen](https://github.com/Angat-Shah/Kavach-HackVortex/screenshots/home-screen.PNG)
 
 - **Create Account Screen**: Interface for signing up or signing in using Apple, Google, email, or phone.  
-  ![Create Account Screen](https://github.com/Angat-Shah/Kavach-HackVortex/blob/main/screenshots/create-account.png)
+  ![Create Account Screen](https://github.com/Angat-Shah/Kavach-HackVortex/screenshots/create-account.PNG)
 
 - **Real-Time Crime Map**: Interactive map showing crime hotspots and incidents across a region.  
-  ![Real-Time Crime Map](https://github.com/Angat-Shah/Kavach-HackVortex/blob/main/screenshots/crime-map.png)
+  ![Real-Time Crime Map](https://github.com/Angat-Shah/Kavach-HackVortex/screenshots/crime-map.PNG)
 
 - **Broadcast Crime Live**: Interface for live crime broadcasting to share real-time incidents with authorities.  
-  ![Broadcast Crime Live](https://github.com/Angat-Shah/Kavach-HackVortex/blob/main/screenshots/broadcast-crime-live.png)
+  ![Broadcast Crime Live](https://github.com/Angat-Shah/Kavach-HackVortex/screenshots/onboarding-screen.PNG)
 
 - **Live Stream**: Screen for starting a live stream to report incidents with video evidence.  
-  ![Live Stream](https://github.com/Angat-Shah/Kavach-HackVortex/blob/main/screenshots/live-stream.png)
+  ![Live Stream](https://github.com/Angat-Shah/Kavach-HackVortex/screenshots/live-stream.PNG)
 
 - **SafetyBuddy Introduction**: Introduction screen for the SafetyBuddy AI chatbot, detailing its features.  
-  ![SafetyBuddy Introduction](https://github.com/Angat-Shah/Kavach-HackVortex/blob/main/screenshots/safety-buddy-intro.png)
+  ![SafetyBuddy Introduction](https://github.com/Angat-Shah/Kavach-HackVortex/screenshots/safety-buddy-intro.PNG)
 
 - **SafetyBuddy Chat**: Chat interface for interacting with the SafetyBuddy AI for safety tips and emergency guidance.  
-  ![SafetyBuddy Chat](https://github.com/Angat-Shah/Kavach-HackVortex/blob/main/screenshots/safety-buddy-chat.png)
+  ![SafetyBuddy Chat](https://github.com/Angat-Shah/Kavach-HackVortex/screenshots/safety-buddy-chat.PNG)
 
 - **Settings Screen**: Interface for managing user settings, including emergency contacts, location sharing, and preferences.  
-  ![Settings Screen](https://github.com/Angat-Shah/Kavach-HackVortex/blob/main/screenshots/settings-screen.png)
+  ![Settings Screen](https://github.com/Angat-Shah/Kavach-HackVortex/screenshots/settings-screen.PNG)
 
-All screenshots are available in the `screenshots/` directory of the repository: [https://github.com/Angat-Shah/Kavach-HackVortex/tree/main/screenshots](https://github.com/Angat-Shah/Kavach-HackVortex/tree/main/screenshots).
+All screenshots are available in the `screenshots/` directory of the repository: [https://github.com/Angat-Shah/Kavach-HackVortex/tree/main/screenshots](https://github.com/Angat-Shah/Kavach-HackVortex/screenshots).
 
 ## Future Enhancements
 
