@@ -6,6 +6,8 @@ import 'package:http/http.dart' as http;
 import 'package:pdf/widgets.dart' as pw;
 import 'package:url_launcher/url_launcher.dart';
 import 'package:open_file/open_file.dart';
+import 'package:flutter/services.dart' show rootBundle;
+import 'dart:typed_data';
 
 // --- Models ---
 enum ReportStatus { pending, accepted, rejected }
@@ -245,17 +247,17 @@ class _ReportCheckScreenState extends State<ReportCheckScreen> {
       _pendingReports = [
         Report(
           id: '1',
-          title: 'Suspicious Activity',
-          description: 'Someone suspicious lurking around residential area',
-          location: 'Park Street, Sector 12',
-          date: DateTime.now().subtract(const Duration(hours: 2)),
+          title: 'Theft',
+          description: 'This is a sample report',
+          location: 'Navasari, Gujarat',
+          date: DateTime.now().subtract(const Duration(hours: 3, minutes: 30)),
           status: ReportStatus.pending,
           pdfUrl: '',
         ),
         Report(
           id: '2',
-          title: 'Vehicle Theft',
-          description: 'Car stolen from parking lot',
+          title: 'Suspicious Activity ',
+          description: 'Someone suspicious lurking around residential area',
           location: 'Main Road, Sector 5',
           date: DateTime.now().subtract(const Duration(hours: 5)),
           status: ReportStatus.pending,
@@ -290,47 +292,22 @@ class _ReportCheckScreenState extends State<ReportCheckScreen> {
 
   Future<void> _viewReportPdf(BuildContext context, String pdfUrl) async {
     try {
-      debugPrint('Attempting to open PDF with URL: $pdfUrl');
+      debugPrint('Loading Kavach Crime Report PDF from assets...');
+
+      // Get temporary directory to store the PDF
       Directory tempDir = await getTemporaryDirectory();
-      String tempPath = '${tempDir.path}/report_${DateTime.now().millisecondsSinceEpoch}.pdf';
+      String tempPath = '${tempDir.path}/kavach_RPT-20250531-1853.pdf';
       File file = File(tempPath);
       debugPrint('Temporary file path: $tempPath');
 
-      if (pdfUrl.isNotEmpty) {
-        debugPrint('Downloading PDF from URL...');
-        final response = await http.get(Uri.parse(pdfUrl));
-        if (response.statusCode == 200) {
-          await file.writeAsBytes(response.bodyBytes);
-          debugPrint('PDF downloaded and written to file');
-        } else {
-          throw Exception('Failed to download PDF: Status ${response.statusCode}');
-        }
-      } else {
-        debugPrint('Generating sample PDF...');
-        final pdf = pw.Document();
-        pw.Font? font;
-        try {
-          final fontData = await DefaultAssetBundle.of(context).load('assets/fonts/Roboto-Regular.ttf');
-          font = pw.Font.ttf(fontData);
-          debugPrint('Roboto font loaded successfully');
-        } catch (e) {
-          debugPrint('Failed to load Roboto font: $e');
-          font = pw.Font.helvetica(); // Fallback to default font
-        }
-        pdf.addPage(
-          pw.Page(
-            build: (pw.Context context) => pw.Center(
-              child: pw.Text(
-                'Sample PDF Report',
-                style: pw.TextStyle(font: font, fontSize: 24),
-              ),
-            ),
-          ),
-        );
-        final pdfBytes = await pdf.save();
-        await file.writeAsBytes(pdfBytes);
-        debugPrint('Sample PDF generated and written to file');
-      }
+      // Load the PDF from assets
+      final pdfData = await DefaultAssetBundle.of(context).load('assets/pdfs/kavach_RPT-20250531-1853.pdf');
+      final pdfBytes = pdfData.buffer.asUint8List();
+      debugPrint('PDF loaded from assets, size: ${pdfBytes.length} bytes');
+
+      // Save the PDF to the temporary file
+      await file.writeAsBytes(pdfBytes);
+      debugPrint('PDF written to temporary file');
 
       // Verify file exists and is not empty
       if (await file.exists()) {
@@ -343,20 +320,12 @@ class _ReportCheckScreenState extends State<ReportCheckScreen> {
         throw Exception('PDF file does not exist at $tempPath');
       }
 
-      // Try opening with url_launcher
-      debugPrint('Attempting to open PDF with url_launcher...');
-      final uri = Uri.file(file.path);
-      if (await canLaunchUrl(uri)) {
-        await launchUrl(uri, mode: LaunchMode.externalApplication);
-        debugPrint('PDF opened successfully with url_launcher');
-      } else {
-        debugPrint('url_launcher failed, trying OpenFile...');
-        // Fallback to OpenFile
-        final result = await OpenFile.open(file.path);
-        debugPrint('OpenFile result: ${result.message}');
-        if (result.type != ResultType.done) {
-          throw Exception('Failed to open PDF with OpenFile: ${result.message}');
-        }
+      // Open the PDF using OpenFile (preferred for mobile devices)
+      debugPrint('Attempting to open PDF with OpenFile...');
+      final result = await OpenFile.open(file.path);
+      debugPrint('OpenFile result: ${result.message}');
+      if (result.type != ResultType.done) {
+        throw Exception('Failed to open PDF: ${result.message}');
       }
     } catch (e, stackTrace) {
       debugPrint('Error opening PDF: $e');

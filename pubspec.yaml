@@ -57,7 +57,7 @@ dependencies:
   firebase_storage: ^12.3.4
   
   video_thumbnail: ^0.5.3
-  video_player: ^2.9.1
+  video_player: ^2.9.2
   path: ^1.8.3
 
 dev_dependencies:
@@ -81,6 +81,8 @@ flutter:
     - assets/images/SHIELD_LOGO-NOBG.png
     - assets/images/profile.jpg
     - assets/images/profile_picture.jpeg
+    - assets/images/evidence.png
+    - assets/images/evi.jpg
 
     - assets/.env
     - assets/dialog_flow_auth.json
@@ -105,3 +107,5 @@ flutter:
     - assets/icons/news_active.png
 
     - assets/fonts/Roboto-Regular.ttf
+    - assets/pdfs/kavach_RPT-20250531-1853.pdf
+    - assets/videos/output.mp4
