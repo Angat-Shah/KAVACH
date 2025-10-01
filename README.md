@@ -1,6 +1,6 @@
 # Kavach – Real-Time Crime Reporting & Citizen Safety Platform
 
-**HackVortex 2025 | Team AutoBots | GovTech**
+**Odoo x Mindbend Hackathon '25 | The Guardians | GovTech**
 
 
 https://github.com/user-attachments/assets/841a52a2-7e09-4dc8-9fd0-e1edecc14c6c
@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/841a52a2-7e09-4dc8-9fd0-e1edecc14c6c
 
 ## Overview
 
-Kavach is a GovTech mobile application designed to revolutionize crime reporting and enhance public safety by empowering citizens to contribute to crime prevention and community security. It complements existing law enforcement systems by providing tools for real-time crime reporting, evidence collection, and situational awareness, all within the legal framework.
+Kavach is a GovTech mobile application designed to revolutionize crime reporting and enhance public safety by empowering citizens to contribute to crime prevention and community security. It complements existing law enforcement systems by providing tools for real-time crime reporting, evidence collection and situational awareness, all within the legal framework.
 
 ## Problem Statement
 
@@ -21,7 +21,7 @@ The current law enforcement infrastructure faces several challenges that delay j
 - **Inadequate Emergency Response Connectivity**: Slow communication with authorities.
 - **Underutilization of AI in Citizen Safety**: Missed opportunities for AI-driven safety solutions.
 
-Kavach addresses these issues by digitizing initial reporting stages, enabling faster law enforcement response, and fostering proactive public safety.
+Kavach addresses these issues by digitizing initial reporting stages, enabling faster law enforcement response and fostering proactive public safety.
 
 ## Solution
 
@@ -31,7 +31,7 @@ Kavach empowers citizens with the following features:
 - **Live Evidence Upload**: Capture and upload real-time photo/video evidence during incidents.
 - **Real-Time Crime Heatmaps**: View interactive maps showing crime hotspots and nearby threats.
 - **Geofencing Alerts**: Receive notifications when entering high-risk areas.
-- **SafetyBuddy AI Assistant**: 24/7 chatbot providing safety tips, emergency advice, travel guidance, and crisis navigation.
+- **SafetyBuddy AI Assistant**: 24/7 chatbot providing safety tips, emergency advice, travel guidance and crisis navigation.
 - **Quick Access to Authorities**: Locate and contact nearby police stations or emergency responders with live location sharing.
 - **Emergency SOS**: Send distress signals with precise geolocation to authorities and trusted contacts.
 - **Trusted Contacts**: Store and alert personal contacts during emergencies with live location sharing.
@@ -44,8 +44,8 @@ By facilitating real-time communication and awareness, Kavach enhances law enfor
 |-----------------------------|-----------------------------------------------------------------------------|
 | **Digital Crime Reporting**  | Submit crime reports instantly via the app without visiting a police station. |
 | **Live Crime Broadcasting**  | Record and send real-time photos/videos for immediate evidence collection.   |
-| **Real-Time Crime Maps**    | Interactive maps displaying ongoing crime locations, hotspots, and alerts.   |
-| **SafetyBuddy AI Assistant** | 24/7 chatbot offering safety tips, emergency advice, and travel guidance.    |
+| **Real-Time Crime Maps**    | Interactive maps displaying ongoing crime locations, hotspots and alerts.   |
+| **SafetyBuddy AI Assistant** | 24/7 chatbot offering safety tips, emergency advice and travel guidance.    |
 | **Smart Alerts**            | Notifications for users entering or nearing crime-prone areas.               |
 | **Quick Access**            | Locate and contact authorities or trusted contacts with live location and SOS alerts. |
 
@@ -145,11 +145,12 @@ Below are screenshots showcasing key features of the Kavach app:
 
 ## Team
 
-**Team AutoBots** – Built for HackVortex 2025
+**The Guardians** – Built for Odoo x Mindbend Hacakthon '25
 
 - **Angat Shah**
 - **Yash Patel**
 - **Gati Shah**
+- **Isha Hansalpara**
 
 ## License
 
